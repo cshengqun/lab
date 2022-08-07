@@ -3,5 +3,6 @@ package main
 import "github.com/cshengqun/lab/scraping"
 
 func main() {
-	scraping.CollyScraping()
+	// scraping.CollyGetHtml()
+	scraping.CollyPostBE()
 }
